@@ -1,1 +1,1 @@
-# BMICalculator-JS
+# BMICalculator is a simple JS application which calculates BMI based on the values of height and weight entered by the user
